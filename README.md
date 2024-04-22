@@ -18,7 +18,7 @@ This Smiley App allows users to capture selfies with different aspect ratios, zo
 
 3-Installation
   3.1-Clone the repository:
-  3.2-git clone https://github.com/your-username/selfie-app.git
+  3.2-git clone [https://github.com/your-username/selfie-app.git](https://github.com/ravib31/Smiley)
   3.3-Navigate to the project directory:
   3.4-cd selfie-app
   3.5-Install dependencies:
